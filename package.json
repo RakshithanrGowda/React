@@ -4,6 +4,8 @@
   "description": "this is the first project by Rakshitha",
   "main": "App.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel index.html",
     "test": "jest"
   },
   "keywords": [
