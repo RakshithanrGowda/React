@@ -17,6 +17,6 @@ const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);*/
 //react Element
 
-const heading=react.createElemnt("h1",{id:"Heading"},"namaste karunadu");
+const heading=React.createElement("h1",{id:"Heading"},"namaste karunadu");
 const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading); 
